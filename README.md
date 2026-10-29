@@ -46,3 +46,16 @@ Problems encountered, investigation steps, and verified solutions.
 
 ## Next Steps
 - Document current equipment and completed configurations.
+Setup Log
+
+October 29, 2026 — Started Project Documentation
+
+* Created a GitHub repository for my home network and homelab.
+* Added a README with the project goals.
+* Listed owned equipment separately from planned purchases.
+
+Next Steps
+
+* Document the switch configuration already completed.
+* Create a network diagram.
+* Record future configuration changes and test results.
