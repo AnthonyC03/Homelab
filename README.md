@@ -14,8 +14,26 @@ In progress.
 - Monitor network devices and performance.
 - Record testing and troubleshooting.
 
-## Equipment
-Equipment models and their roles will be documented here.
+Equipment List
+
+Purchased / Owned
+
+* Cisco WS-C2960X-24PD-L PoE+ switch
+* Cisco WS-C2960X-24TS-L switch
+* USB-to-RJ45 FTDI console cable
+* Acer Predator Helios 300 PH315-54 laptop — 16 GB RAM
+
+Planned Purchases
+
+* Cisco C1111-8P router
+* Protectli firewall — model to be finalized
+* Dedicated server for Splunk and network-monitoring VMs — model to be selected
+* Cat6 Ethernet cable
+* Cat6 RJ45 pass-through connectors — 50-pack
+
+Internet Service
+
+* Verizon Fios — 1 Gbps
 
 ## Network Design
 Network diagrams, IP addressing, and VLANs.
