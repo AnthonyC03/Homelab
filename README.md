@@ -22,14 +22,14 @@ Purchased / Owned
 * Cisco WS-C2960X-24TS-L switch
 * USB-to-RJ45 FTDI console cable
 * Acer Predator Helios 300 PH315-54 laptop — 16 GB RAM
+* Cat6 Ethernet cable
+* Cat6 RJ45 pass-through connectors — 50-pack
 
 Planned Purchases
 
 * Cisco C1111-8P router
-* Protectli firewall — model to be finalized
+* Protectli firewall V1610
 * Dedicated server for Splunk and network-monitoring VMs — model to be selected
-* Cat6 Ethernet cable
-* Cat6 RJ45 pass-through connectors — 50-pack
 
 Internet Service
 
