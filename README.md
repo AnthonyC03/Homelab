@@ -24,6 +24,7 @@ Purchased / Owned
 * Acer Predator Helios 300 PH315-54 laptop — 16 GB RAM
 * Cat6 Ethernet cable
 * Cat6 RJ45 pass-through connectors — 50-pack
+Ubiquiti U7 Lite
 
 Planned Purchases
 
